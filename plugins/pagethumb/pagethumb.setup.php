@@ -2,7 +2,7 @@
 
 /* ====================
 pro-tasarim.net- Website engine
-Copyright pro-tasarim.net
+Copyright Neocrome.net
 http://www.seditiocms.com
 
 [BEGIN_SED]
