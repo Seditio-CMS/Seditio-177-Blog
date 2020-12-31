@@ -1,7 +1,7 @@
 ﻿<?PHP
 
 /* ====================
-pro-tasarim.net- Website engine
+Seditio Website engine
 Copyright Neocrome.net
 http://www.seditiocms.com
 
